@@ -1,0 +1,1 @@
+/home/tfg/Documentos/tfg/by-Example/Proyectos/proyecto_tres/prtres/target/debug/adder: /home/tfg/Documentos/tfg/by-Example/Proyectos/proyecto_tres/prtres/add-one/src/lib.rs /home/tfg/Documentos/tfg/by-Example/Proyectos/proyecto_tres/prtres/adder/src/main.rs

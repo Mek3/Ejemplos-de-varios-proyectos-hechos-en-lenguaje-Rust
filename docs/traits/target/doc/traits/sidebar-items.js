@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["main",""]],"struct":[["Cuadrado","Estructura básica que representa a un cuadrado."],["Rectangulo","Estructura básica que representa a un rectagulo."]],"trait":[["Area","trait que incluye dentro una funcion que calcula el area de una figura dada."]]});

@@ -1,0 +1,1 @@
+/home/tfg/Documentos/tfg/by-Example/Proyectos/proyecto_tres/pr3/target/package/pr3_exercism-0.1.0/target/debug/libpr3_exercism.rlib: /home/tfg/Documentos/tfg/by-Example/Proyectos/proyecto_tres/pr3/target/package/pr3_exercism-0.1.0/src/lib.rs

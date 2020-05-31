@@ -1,0 +1,1 @@
+/home/tfg/Documentos/tfg/by-Example/Proyectos/proyecto_dos/workpsaces/hello-world/target/debug/hello_exercism-3753e3fa8185f085: /home/tfg/Documentos/tfg/by-Example/Proyectos/proyecto_dos/workpsaces/hello-world/lib-hello/src/lib.rs

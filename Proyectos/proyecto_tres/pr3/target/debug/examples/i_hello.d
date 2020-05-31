@@ -1,0 +1,1 @@
+/home/tfg/Documentos/tfg/by-Example/Proyectos/proyecto_tres/pr3/target/debug/examples/i_hello: /home/tfg/Documentos/tfg/by-Example/Proyectos/proyecto_tres/pr3/lib-pr3/examples/i_hello.rs /home/tfg/Documentos/tfg/by-Example/Proyectos/proyecto_tres/pr3/lib-pr3/src/lib.rs

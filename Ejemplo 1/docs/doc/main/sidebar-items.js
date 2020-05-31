@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["dividir","Funcion para dividir a y b"],["multiplicar","Funcion para multiplicar a y b"],["restar","Funcion para restar a y b"],["sumar","This is a doc comment."]]});
